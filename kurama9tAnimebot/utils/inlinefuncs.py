@@ -92,7 +92,7 @@ async def inline_help_func(__help__):
             input_message_content=InputTextMessageContent(
                 "https://github.com/Aarukami/gojo-satoru"
             ),
-            thumb_url="aaru https://hamker.me/gjc9fo3.png(not available)",
+            thumb_url="https://hamker.me/gjc9fo3.png",
         ),
     ]
     answerss = await alive_function(answerss)
