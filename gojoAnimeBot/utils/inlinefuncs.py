@@ -86,7 +86,7 @@ async def inline_help_func(__help__):
             title="Github Repo",
             description="Get Github Respository Of Bot.",
             input_message_content=InputTextMessageContent(
-                "https://github.com/Aarukami/gojoAnimeBot"
+                "https://github.com/Aarukami/gojo-satoru"
             ),
             thumb_url="https://hamker.me/gjc9fo3.png",
         ),
@@ -106,7 +106,7 @@ async def alive_function(answers):
     )
 
     msg = f"""
-**[gojo✨](https://github.com/Aarukami/gojoAnimeBot):**
+**[gojo✨](https://github.com/Aarukami/gojo-satoru):**
 **RoBot:** `{bot_state}`
 **Python:** `{pyver.split()[0]}`
 **Pyrogram:** `{pyrover}`
