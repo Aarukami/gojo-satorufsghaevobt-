@@ -7,7 +7,7 @@
 > If There's no Trace of This Repo in your Bot, We will be pushing a gban on you from our systems.
 
 
-### Can be found on telegram as [gojo](https://t.me/gojoAnimeRoBot).
+### Can be found on telegram as [gojo](https://t.me/I_am_the_strongest_bot).
 
 ##### For Session String, Run stringgen.py locally
 
