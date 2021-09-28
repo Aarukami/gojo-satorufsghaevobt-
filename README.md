@@ -1,7 +1,7 @@
-![gojo](https://telegra.ph/file/3a2d5f40a0f3932c527a5.jpg)
+![gojo](https://telegra.ph/file/7d58dac2c760e2d63c7b4.jpg)
 # gojo
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/IzumiCypherX/gojoAnimeBot/graphs/commit-activity) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://perso.crans.org/besson/LICENSE.html)<br> [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)<br> [![Updates channel!](https://img.shields.io/badge/Join%20Channel-↗-red)](https://t.me/TangentXOfficial) 
-[![Support Group!](https://img.shields.io/badge/Join%20Group-↗-green)](https://t.me/TangentXOfficial)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/IzumiCypherX/gojoAnimeBot/graphs/commit-activity) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://perso.crans.org/besson/LICENSE.html)<br> [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)<br> [![Updates channel!](https://img.shields.io/badge/Join%20Channel-↗-red)](https://t.me/mhaprvt) 
+[![Support Group!](https://img.shields.io/badge/Join%20Group-↗-green)](https://t.me/mhaprvt)
 
 
 > If There's no Trace of This Repo in your Bot, We will be pushing a gban on you from our systems.
@@ -26,21 +26,14 @@
 
 ```
 Thanks To:
-> @AnimeKaizoku
-
-> @PaulSonofLars
-
-> @sudo_nautilus
-
-> @kanekiken44
-
-> @TheHamkerCat
+> @aarukami
+@shvvvvv1
 
 ```
 
 
 
-The Support group can be reached out to at [Tangent](https://t.me/TangentChats), where you can ask for help about [gojo](https://t.me/gojoAnimeRobot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
+The Support group can be reached out to at [mhapvt](https://t.me/mhaprvt), where you can ask for help about [gojo](https://t.me/gojoAnimeRobot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
 
 <details>
 	<summary>Heroku Deploy</summary>
