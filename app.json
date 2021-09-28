@@ -1,5 +1,5 @@
 {
-      "name": "gojoBot",
+      "name": "gojoAnimeBot",
       "description": "An Anime themed Telegram group management bot.",
       "logo": "https://telegra.ph/file/ad49e5e1cb054cbfc76ac.jpg", 
       "keywords": [
@@ -9,7 +9,7 @@
          "manager",
          "gojo"
       ],   
-   "repository": "https://github.com/IzumiCypherX/gojoAnimeBot",
+   "repository": "https://github.com/Aarukami/gojoAnimeBot",
    "addons": [
       {
          "options": {
