@@ -13,7 +13,7 @@ from gojoAnimeBot import telethn
 
 client = MongoClient()
 client = MongoClient(MONGO_DB_URI)
-db = client["gojoanimebot"]
+db = client["gojoAnimeBot"]
 gbanned = db.gban
 
 def register(**args):
